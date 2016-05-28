@@ -66,11 +66,15 @@ ol
 ol li
 { margin: 0 0 11px 0;}
 
-#main, #header, #banner, #menubar, #site_content, #footer, #content_blue
+#main, #header, #header2, #banner, #menubar, #site_content, #footer, #content_blue
 { margin-left: auto; 
   margin-right: auto;}
 
 #header
+{ height: 400px;
+  width: 960px;
+  background: transparent url(../images/header.jpg) no-repeat;}
+  #header2
 { height: 400px;
   width: 960px;
   background: transparent url(../images/header.jpg) no-repeat;}
