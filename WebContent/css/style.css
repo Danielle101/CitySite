@@ -66,7 +66,7 @@ ol
 ol li
 { margin: 0 0 11px 0;}
 
-#main, #header, #header2,#header3, #header4, #banner, #menubar, #site_content, #footer, #content_blue
+#main, #header, #header2,#header3, #header4, #header5, #banner, #menubar, #site_content, #footer, #content_blue
 { margin-left: auto; 
   margin-right: auto;}
 
@@ -87,6 +87,11 @@ ol li
 { height: 400px;
   width: 960px;
   background: transparent url(../images/header4.jpg) no-repeat;}
+  
+   #header5
+{ height: 400px;
+  width: 960px;
+  background: transparent url(../images/header5.jpg) no-repeat;}
 
 #menubar
 { width: 960px;
